@@ -2,6 +2,6 @@
 #Repo para execução do tutorial w3c de Jquery
 #https://www.w3schools.com/jquery/jquery_get_started.asp
 
-#Exercicios 12/60
+#Exercicios 19/60
 
-#Parei 
+#Parei no SLIDE
