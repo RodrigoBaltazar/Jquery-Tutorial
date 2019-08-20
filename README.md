@@ -1,5 +1,7 @@
 # Jquery-Tutorial
-Repo para execução do tutorial w3c de Jquery
+#Repo para execução do tutorial w3c de Jquery
 #https://www.w3schools.com/jquery/jquery_get_started.asp
 
-#Parei nos events -> Form Focus
+#Exercicios 12/60
+
+#Parei 

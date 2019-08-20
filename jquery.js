@@ -21,9 +21,19 @@
     $(this).hide();
   });
   $("#p1").mouseenter(function(){
-   alert("Te avisei!");
+   console.log("Te avisei!");
  });
 
+//  $("#p1").mousedown(function(){
+//   alert("Mouse pressed over p1!");
+// });
 
+  $("#p1").mouseup(function(){
+    alert("Mouse up over p1!");
+  });
+
+  $("p").on("click", function(){
+    $(this).hide();
+  });
 
 }); // End of Documents Ready
